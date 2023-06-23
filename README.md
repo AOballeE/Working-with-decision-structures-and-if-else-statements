@@ -18,8 +18,6 @@ pizza order to see which type the user wants.
 
 - <b>Spyder</b> 
 
-<h2>Program walk-through:</h2>
-
 
 
 <!--
