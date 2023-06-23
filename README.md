@@ -1,6 +1,5 @@
 <h1>Lab 1 - Working with decision structures and if/else statements </h1>
 
- ### [Working with choices)
 
 <h2>Description</h2>
 In this lab project we will be using prompts, decison structures, and 
