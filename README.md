@@ -1,9 +1,11 @@
-<h1>Challenge 9 - Dictionaries</h1>
+<h1>Lab 1 - Working with decision structures and if/else statements </h1>
 
  ### [Working with choices)
 
 <h2>Description</h2>
-In this project I will be working with a dictionary set that include grades for student where I will create a menu option to either look up, add, print out the list, delete a grade, or quit the program.
+In this lab project we will be using prompts, decison structures, and 
+if/else statements to let the user got through a series of decions to complete the
+pizza order to see which type the user wants.
 <br />
 
 
@@ -14,7 +16,7 @@ In this project I will be working with a dictionary set that include grades for 
 
 <h2>Environments Used </h2>
 
-- <b>Spyder</b> (21H2)
+- <b>Spyder</b> 
 
 <h2>Program walk-through:</h2>
 
